@@ -1,0 +1,10 @@
+[2026-02-22 16:35:53.011] [main] [INFO] Application started
+[2026-02-22 16:35:53.027] [main] [WARNING] Low disk space
+[2026-02-22 16:35:53.027] [main] [ERROR] Database connection failed
+[2026-02-22 16:35:53.028] [main] [WARNING] This WARNING message should appear
+[2026-02-22 16:35:53.028] [main] [ERROR] This ERROR message should appear
+[2026-02-22 16:35:53.028] [main] [ERROR] This ERROR message should appear
+[2026-02-22 16:35:53.074] [Thread-2] [ERROR] Thread 2 message 0
+[2026-02-22 16:35:53.075] [Thread-3] [ERROR] Thread 3 message 0
+[2026-02-22 16:35:53.113] [Thread-0] [ERROR] Thread 0 message 2
+[2026-02-22 16:35:53.119] [Thread-4] [ERROR] Thread 4 message 1
